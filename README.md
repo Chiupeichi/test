@@ -1,8 +1,6 @@
 # Pneumonia Classification with ResNet18
 
-
-
-This project demonstrates how to apply transfer learning with a pretrained ResNet18 model for binary classification of chest X-ray images (Pneumonia vs Normal). It is designed as a comprehensive tutorial notebook and can be used both for learning and as a resume portfolio project to showcase practical deep learning skills using PyTorch.
+This repository presents a practical implementation of pneumonia detection from chest X-ray images using transfer learning with a pretrained ResNet18 model. It highlights the application of PyTorch for medical image classification in a binary setting (Pneumonia vs. Normal).
 
 ## 📌 Project Overview
 
